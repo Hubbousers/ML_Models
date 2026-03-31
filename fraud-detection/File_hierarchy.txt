@@ -1,0 +1,20 @@
+fraud-detection-ml/
+│
+├── data/
+│   └── data.csv
+│
+├── src/
+│   ├── train.py
+│   ├── predict.py
+│
+├── model/
+│   └── model.pkl
+│
+├── api/
+│   └── app.py
+│
+├── requirements.txt
+│
+└── README.md
+
+mkdir data, src, model, api
